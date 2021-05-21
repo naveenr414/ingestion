@@ -1,0 +1,5 @@
+1. This quantity can be measured with a Galilean device that relies on changes in liquid density. The surface
+form of this quantity is measured with a pyrometer. The first reliable tool for measuring this quantity was a
+sealed glass tube of (*) mercury. Absolute scales for this quantity include Rankine and Kelvin, and its standard
+scale is based on the freezing and boiling points of water. For ten points, name this quantity recorded in degrees
+Celsius. ANSWER: temperature

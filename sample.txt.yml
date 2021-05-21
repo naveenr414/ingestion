@@ -1,0 +1,26 @@
+# generated using these settings:
+# {'bonuspart_text_re': '^\\s*(\\(\\d+\\)|\\[\\d+\\])\\s*', 'bonus_leadin_re': '^\\s*(\\(\\d+\\)|\\d+\\.?|extra|t(ie)?b(reak(er)?)?:?)\\s*', 'bonuspart_answer_re': '^\\s*answer:?\\s*', 'tossup_text_re': '^\\s*(\\(\\d+\\)|\\d+\\.?|extra|t(ie)?b(reak(er)?)?:?)\\s*', 'num_tossups': -1, 'tournament': 'SCOP', 'round': '5', 'tossup_answer_re': '^\\s*answer:?\\s*'} 
+# TOSSUPS
+# 1 tossups total
+- answer: temperature
+  category: Science
+  formatted_answer: temperature
+  formatted_text: This quantity can be measured with a Galilean device that relies
+    on changes in liquid density. The surface form of this quantity is measured with
+    a pyrometer. The first reliable tool for measuring this quantity was a sealed
+    glass tube of (*) mercury. Absolute scales for this quantity include Rankine and
+    Kelvin, and its standard scale is based on the freezing and boiling points of
+    water. For ten points, name this quantity recorded in degrees Celsius.
+  number: 1
+  round: '5'
+  subcategory: Science Chemistry
+  text: This quantity can be measured with a Galilean device that relies on changes
+    in liquid density. The surface form of this quantity is measured with a pyrometer.
+    The first reliable tool for measuring this quantity was a sealed glass tube of
+    (*) mercury. Absolute scales for this quantity include Rankine and Kelvin, and
+    its standard scale is based on the freezing and boiling points of water. For ten
+    points, name this quantity recorded in degrees Celsius.
+  tournament: SCOP
+# BONUSES
+# 0 bonuses total
+[]
